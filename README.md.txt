@@ -20,7 +20,7 @@
 
   * maior salário; - O final da leitura de dados se dará com a entrada de um salário negativo. - Faça isso usando uma função!*
 
-- 7 *aça um programa onde, você chame uma função que calcule a taxa mensal de juros de um investimento.* Você deve enviar como argumentos da função - Valor inicial investido - Valor atual do investimento* 
+- 7 *Faça um programa onde, você chame uma função que calcule a taxa mensal de juros de um investimento.* Você deve enviar como argumentos da função - Valor inicial investido - Valor atual do investimento* 
 
   - Tempo em meses, que o valor está investidoA função deve RETORNAR a taxa de juros, já formatada. Ex: 2,5%.*  
 
