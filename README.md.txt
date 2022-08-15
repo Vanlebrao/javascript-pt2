@@ -2,7 +2,7 @@
 
 ## Esse módulo contou com alguns desafios bem legais :computer:
 
-#### O desafio de funçõe é composto por 8 exercícios, seguindo algumas regras:
+#### O desafio de funções é composto por 8 exercícios, seguindo algumas regras:
 
 - 1 *Escreva um programa onde, você chama uma função enviando um número, a função deve imprimir na tela os números de 1 até o número que vc enviou.*
 
